@@ -1,0 +1,11 @@
+pygame 主要对象
+
+pygame.display   显示
+pygame.time      时间
+pygame.event     事件
+pygame.draw      绘制
+
+颜色-RGB
+red = (255,0,0)
+white=(255,255,255）
+blace = (0,0,0)
